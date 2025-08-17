@@ -5,8 +5,8 @@
 
 The second Numerical Methods assignment features three different tasks with a well-documented solving process and a collection of MATLAB functions to perform specific pieces of this process. All tasks focus on real life applications of numerical methods for functions.
 
-The three areas of interest for this project are: interpreting sound waves to create music, using interpolation in robotics and 
-performing recommendations based on the cosine similarity method.
+The three areas of interest for this project are: interpreting **sound waves** to create music, using **interpolation** in robotics and 
+performing recommendations based on the **cosine similarity** method.
 
 ## Tasks
 
